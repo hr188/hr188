@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **REACT Native**
+- 🌱 I’m currently learning **REACT**
 
 - 💬 Ask me about **DSA ,C++ ,Web3**
 
